@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "header": "Kelas Online",
+    "description": "HJ Codin Tech menyediakan kelas online yang dapat membantu kamu dalam belajar pemograman . Klik tombol di bawah ini untuk mendapatkan informasi lebih lanjut!"
+  },
+  {
+    "id": 2,
+    "header": "Jasa Digital",
+    "description": "HJ Codin Tech juga menyediakan jasa digital seperti pembuatan website , pembuatan aplikasi , dll. Klik tombol di bawah ini untuk mendapatkan informasi lebih lanjut! "
+  },
+  {
+    "id": 3,
+    "header": "Komunitas",
+    "description": "HJ Codin Tech juga menyediakan tempat untuk anda dan pengguna lain berinteraksi di dalam satu ruang obrolan. Klik tombol di bawah ini untuk mendapatkan informasi lebih lanjut!"
+  }
+]
