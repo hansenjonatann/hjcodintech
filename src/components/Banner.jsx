@@ -8,14 +8,14 @@ const Banner = () => {
           <div className="flex flex-col lg:flex-row justify-center text-center  mt-8 items-center   text-white">
             <div className="">
               <div className="container">
-                <h1 className="text-white lg:text-2xl">
+                <h1 className="text-white text-2xl  lg:text-2xl">
                   Kamu sulit mencari{" "}
                   <span className="font-bold">pengetahuan</span> dan mengasah{" "}
                   <span className="font-bold">kemampuanmu</span> di bidang
                   teknologi?
                 </h1>
 
-                <p className="mt-4 lg:text-xl">
+                <p className="mt-4  text-sm lg:text-xl">
                   Mari gunakan waktu dan tenagamu dengan{" "}
                   <span className="font-bold">
                     belajar dan berkembang bersama di HJ Codin Tech

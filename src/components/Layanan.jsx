@@ -21,6 +21,7 @@ const Layanan = () => {
               <CustomCard
                 header={layanan.header}
                 description={layanan.description}
+                url={layanan.url}
               />
             ))}
           </div>
