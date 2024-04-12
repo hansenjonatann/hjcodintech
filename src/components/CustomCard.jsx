@@ -15,12 +15,13 @@ const CustomCard = (props) => {
           <div className="flex justify-center mt-6">
             <motion.a
               href={url || "#"}
+              target="_blank"
               className={`bg-white text-primary font-bold px-4 py-2 rounded-md  mt-4 transition duration-300 hover:bg-opacity-50 ${
                 isDisabled ? "pointer-events-none" : ""
               }`}
               whileHover={{ scale: isDisabled ? 1 : 1.05 }}
             >
-              {isDisabled ? "Disabled" : "Coming Soon"}
+              {isDisabled ? "Disabled" : "Go Now"}
             </motion.a>
           </div>
         </div>
